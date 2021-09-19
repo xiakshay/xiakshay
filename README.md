@@ -1,4 +1,8 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<h1> Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Akshay Kumar Kushwaha! <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/source.gif" width="50"></h1>
+<img align='right' src="./git.png" width="230">
+<p><em>Student at <a href="https://www.cuchd.in/">CHANDIGARH UNIVERSITY</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently Working on <a href="#">Development & Productivity, Inhancing skills on web development</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 <a href="https://www.linkedin.com/in/akshay-kumar-kushwaha-19b8621bb/">
   <img align="left" alt="Akshay Kumar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -9,7 +13,20 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=arunsridher)
 
-My name is Akshay Kumar and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies 
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```python
+global APS = {
+  'pronouns': 'we' | 'our',
+  'code': [C, C++, Python, HTML, CSS, JavaScript, React],
+  'tools': [Node.js, Mediapipe, OpenCV, Bootstrap],
+  'architecture': ["IDK"],
+
+  'challenge': "Productivity and Passion, Developing Tools to build Atomic structure"
+  'what do I like other than coding?': "Reading Books, Cycling, Movie, Fun-with-friends"
+}
+```
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -42,3 +59,11 @@ My name is Akshay Kumar and I"m a Software Engineer who is passionate about buil
  <br />
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Akshay01-M&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
+<br />
+<br />
+<img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="60"> <em><b>I love to connect with different people</b> so if you want to say <b>hi, I'll be happy to say hi! back to you...</b> :)</em>
+
+---
+
+#### _Thanks To Visit!_
