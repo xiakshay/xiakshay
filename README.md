@@ -50,14 +50,15 @@ global APS = {
 ![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=NetBeans-ide&logoColor=2C2255)
 
 ## &#x1f4c8; GitHub Stats
+ <div align="center">
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay01-M&show_icons=true&locale=en&layout=compact&theme=radical" alt="Akshay Kumar" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay01-M&show_icons=true&locale=en&layout=compact&theme=radical" alt="Akshay Kumar" /></p>
 
- 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay01-M&theme=radical" alt="AkshayKumar" /></p>
- 
- <br />
- 
+ <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay01-M&theme=radical" alt="AkshayKumar" /></p>
+
+
+[Themes]: <> (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshay01-M&theme=radical)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Akshay01-M&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 <br />
