@@ -18,7 +18,7 @@
 
 ```python
 global Akshay = {
-  'pronouns': 'we' | 'our',
+  'pronouns': 'he' | 'him',
   'code': [C, C++, Python, HTML, CSS, JavaScript, React],
   'tools': [Node.js, Mediapipe, OpenCV, Bootstrap],
   'architecture': ["IDK"],
