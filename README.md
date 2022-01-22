@@ -58,7 +58,9 @@ global Akshay = {
 
 
 [Themes]: <> (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshay01-M&theme=radical)
+  
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Akshay01-M&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Akshay01-M&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 <br />
