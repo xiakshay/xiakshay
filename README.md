@@ -11,7 +11,7 @@
   <img align="left" alt="Akshay | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Akshay01-M)
+![](https://visitor-badge.glitch.me/badge?page_id=xiakshay)
 
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -46,9 +46,9 @@ global Akshay = {
 ## &#x1f4c8; GitHub Stats
  <div align="center">
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay01-M&show_icons=true&locale=en&layout=compact&theme=radical" alt="Akshay Kumar" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xiakshay&show_icons=true&locale=en&layout=compact&theme=radical" alt="Akshay Kumar" /></p>
 
- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay01-M&theme=radical" alt="AkshayKumar" /></p>
+ <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=xiakshay&theme=radical" alt="AkshayKumar" /></p>
 
 
 [Themes]: <> (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
