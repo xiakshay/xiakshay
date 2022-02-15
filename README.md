@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/akshay-kumar-kushwaha-19b8621bb/">
   <img align="left" alt="Akshay Kumar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/akshay010175?s=09">
+<a href="https://twitter.com/xiakshay?s=09">
   <img align="left" alt="Akshay | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
