@@ -1,5 +1,5 @@
 
-<h1> Hi<img src="" width="25px">, I'm Akshay Kumar Kushwaha! <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/source.gif" width="50"></h1>
+<h1> Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">, I'm Akshay Kumar Kushwaha! <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/source.gif" width="50"></h1>
 <img align='right' src="./git.png" width="230">
 <p><em>Student at <a href="https://www.cuchd.in/">CHANDIGARH UNIVERSITY</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently Working on <a href="#">Development & Productivity, Inhancing skills on web development</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
