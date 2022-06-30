@@ -38,7 +38,7 @@ global Akshay = {
 ![](https://img.shields.io/badge/Code-c++-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HTML-E34F26?&style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-1572B6?&style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Sass-CC6699?&style=flat&logo=sass&logoColor=white&color=2bbc8a)
