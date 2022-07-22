@@ -56,6 +56,10 @@ global Akshay = {
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api/?username=xiakshay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xiakshay&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+#### 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiakshay&theme=radical"/>
+</p>
 
 <br />
 <br />
