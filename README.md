@@ -4,12 +4,9 @@
 <p><em>Student at <a href="https://www.cuchd.in/">CHANDIGARH UNIVERSITY</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently Working on <a href="#">Development & Productivity, Inhancing skills on web development</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<a href="https://www.linkedin.com/in/xiakshay/">
-  <img align="left" alt="Akshay Kumar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/xiakshay?s=09">
-  <img align="left" alt="Akshay | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+
+[Linkedin](https://www.linkedin.com/in/xiakshay/)
+[Twitter](https://twitter.com/xiakshay)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=xiakshay)
 
