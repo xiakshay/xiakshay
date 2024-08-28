@@ -2,7 +2,8 @@
 <h3 align="center">A passionate developer from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xiakshay" alt="xiakshay" /></a> </p>
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=xiakshay&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 - 🔭 I’m currently working on **Machine Learning**
 
